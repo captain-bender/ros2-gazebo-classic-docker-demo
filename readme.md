@@ -1,6 +1,7 @@
 # ROS 2 Humble with Gazebo Classic - Docker Development Environment
 
 A complete Docker-based development environment for ROS 2 Humble with Gazebo Classic, optimized for Windows 11 with VS Code integration.
+If you have no specific reason to use Gazebo classic, please prefer the new gazebo (e.g. Fortress) as described in this [repository](https://github.com/captain-bender/ros2-gazebo-docker-demo).
 
 ## Prerequisites
 
